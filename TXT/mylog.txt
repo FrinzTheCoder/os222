@@ -3,3 +3,7 @@
 # LogCode + Description List
 ZCZC W00 30 L03 GitHub related
 ZCZC W00 45 L04 Github Pages related
+ZCZC W00 60 L05 Quiz related
+ZCZC W00 240 L02 ZOOM meetings related
+ZCZC W00 90 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W00 30 L10 Assignment #00
