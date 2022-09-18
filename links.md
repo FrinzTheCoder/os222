@@ -14,3 +14,7 @@ Tutorial dasar regex hanya dalam 15 menit. Mudah untuk dimengerti.
 
 3. [AWK Basic](https://www.geeksforgeeks.org/awk-command-unixlinux-examples/)<br>
 Dasar perintah awk disertai dengan contoh. Cukup ringkas untuk pemula.
+
+4. [Encryption](https://www.youtube.com/watch?v=AQDCe585Lnc)<br>
+Dasar enkripsi simetris/asimetris. Dijelaskan secara ringkas dan mudah dimengerti untuk pemula (terutama di bagian penjelasan private/public key pada enkripsi asimetris).
+
