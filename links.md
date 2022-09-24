@@ -18,3 +18,14 @@ Dasar perintah awk disertai dengan contoh. Cukup ringkas untuk pemula.
 4. [Encryption](https://www.youtube.com/watch?v=AQDCe585Lnc)<br>
 Dasar enkripsi simetris/asimetris. Dijelaskan secara ringkas dan mudah dimengerti untuk pemula (terutama di bagian penjelasan private/public key pada enkripsi asimetris).
 
+5. [Sed Basic](https://www.geeksforgeeks.org/sed-command-in-linux-unix-with-examples/)<br>
+Dasar perintah sed disertai dengan contoh. Cukup ringkas untuk pemula.
+
+6. [Grep Basic](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)<br>
+Dasar perintah grep disertai dengan contoh. Cukup ringkas untuk pemula.
+
+7. [Ext/Int Fragmentation](https://www.geeksforgeeks.org/difference-between-internal-and-external-fragmentation/)<br>
+Penjelasan mengenai perbedaan antara internal dan external fragmentation pada OS (disertai ilustrasi). Sangat mudah dimengerti.
+
+8. [Nano Tutorial](https://www.youtube.com/watch?v=gyKiDczLIZ4)<br>
+Nano adalah text editor yang dapat digunakan di linux. Menurut saya, nano lebih mudah digunakan daripada vi. Link tersebut berisi tutorial penggunaan nano pada linux.
