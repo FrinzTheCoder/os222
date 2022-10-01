@@ -29,3 +29,9 @@ Penjelasan mengenai perbedaan antara internal dan external fragmentation pada OS
 
 8. [Nano Tutorial](https://www.youtube.com/watch?v=gyKiDczLIZ4)<br>
 Nano adalah text editor yang dapat digunakan di linux. Menurut saya, nano lebih mudah digunakan daripada vi. Link tersebut berisi tutorial penggunaan nano pada linux.
+
+9. [Pointers](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)<br>
+Pengetahuan tentang pointers cukup penting dalam mempelajari bahasa C. Situs ini berisi penjelasan tentang penggunaan pointer pada bahasa C.
+
+10. [Tar](https://www.geeksforgeeks.org/tar-command-linux-examples/)<br>
+Website berisi basic perintah untuk membuat file tar. Sangat mudah dipelajari.
