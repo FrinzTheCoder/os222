@@ -35,3 +35,9 @@ Pengetahuan tentang pointers cukup penting dalam mempelajari bahasa C. Situs ini
 
 10. [Tar](https://www.geeksforgeeks.org/tar-command-linux-examples/)<br>
 Website berisi basic perintah untuk membuat file tar. Sangat mudah dipelajari.
+
+11. [Virtual Memory](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+Berisi penjelasan mengenai dasar virtual memory. Sangat mudah dipelajari.
+
+12. [Virtual and Cache Memory](https://www.geeksforgeeks.org/difference-between-virtual-memory-and-cache-memory/)<br>
+Berisi perbedaan/perbandingan antara Virtual Memory dan Cache Memory. Sangat mudah dipelajari.
