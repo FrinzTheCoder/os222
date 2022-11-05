@@ -41,3 +41,12 @@ Berisi penjelasan mengenai dasar virtual memory. Sangat mudah dipelajari.
 
 12. [Virtual and Cache Memory](https://www.geeksforgeeks.org/difference-between-virtual-memory-and-cache-memory/)<br>
 Berisi perbedaan/perbandingan antara Virtual Memory dan Cache Memory. Sangat mudah dipelajari.
+
+13. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Berisi cara kerja dan contoh-contoh pengunaan fork() pada bahasa C
+
+14. [Multithreading 1](https://www.techtarget.com/whatis/definition/multithreading)<br>
+Berisi penjelasan tentang multithreading dan perbedaannya dengan multitasking dan multiprogramming.
+
+15. [Multithreading 2](https://www.geeksforgeeks.org/multithreading-in-operating-system/)<br>
+Penjelasan secara singkat mengenai multithreading pada Operating System.
