@@ -50,3 +50,12 @@ Berisi penjelasan tentang multithreading dan perbedaannya dengan multitasking da
 
 15. [Multithreading 2](https://www.geeksforgeeks.org/multithreading-in-operating-system/)<br>
 Penjelasan secara singkat mengenai multithreading pada Operating System.
+
+16. [Semaphore in Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+Penjelasan pengunaan Semaphore untuk masalah sinkronisasi proses.
+
+17. [Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Penjelasan mengenai deadlock pada Operating System.
+
+18. [Deadlock Prevention & Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
+Prevention dan Avoidance untuk menghindari deadlock.
