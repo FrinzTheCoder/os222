@@ -59,3 +59,9 @@ Penjelasan mengenai deadlock pada Operating System.
 
 18. [Deadlock Prevention & Avoidance](https://www.geeksforgeeks.org/deadlock-prevention/)<br>
 Prevention dan Avoidance untuk menghindari deadlock.
+
+19. [CPU Schedulling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)<br>
+Membahas CPU Schedulling pada Sistem Operasi.
+
+20. [Round Robin Schedulling](https://www.geeksforgeeks.org/program-round-robin-scheduling-set-1/)<br>
+Membahas Round Robin CPU Schedulling pada Sistem Operasi.
